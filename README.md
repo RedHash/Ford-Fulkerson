@@ -1,2 +1,2 @@
 # Ford-Fulkerson
-Ford–Fulkerson method implementation 
+Ford–Fulkerson method. Maximum flow in a flow network
